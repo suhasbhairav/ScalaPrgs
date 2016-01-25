@@ -1,1 +1,3 @@
 # ScalaPrgs
+
+Simple Scala Programs
